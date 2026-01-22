@@ -18,6 +18,6 @@ body {
 }
 
 .gallery-item:hover {
-  transform: scale(1.01);
+  transform: scale(1.005);
   transition: transform 0.1s ease;
 }
